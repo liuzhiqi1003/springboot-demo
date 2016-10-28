@@ -1,0 +1,1 @@
+INSERT INTO user(username,password,create_time) VALUES ('lisi','123456','2016-10-28 10:10:10');
